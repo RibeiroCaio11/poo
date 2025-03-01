@@ -14,7 +14,7 @@ Reservar uma Sala: O usuário deve ser capaz de selecionar uma sala disponível 
 Cancelar Reserva de uma Sala: O usuário deve ser capaz de selecionar uma sala reservada e cancelar sua reserva. 
 Se a sala não tiver uma reserva, o programa deve informar ao usuário.
 */
-import java.util.ArrayList
+import java.util.ArrayList;
 
 class Salas {
    private boolean disponivel;
@@ -28,6 +28,7 @@ class Salas {
     }
     //metodos
 
+      ArrayList.
 
 
  void   Listar(){
